@@ -1,0 +1,17 @@
+{
+  "name": "frontity-hello-world",
+  "repo": "konrad-glowacki/frontity-hello-world",
+  "environments": [
+    {
+      "name": "development",
+      "branch": "main",
+      "wp_environment_name": "kongloheaddev",
+      "secrets": [
+        {
+          "key": "WP_URL",
+          "value": "http://kongloheaddev.wpengine.com"
+        }
+      ]
+    }
+  ]
+}
