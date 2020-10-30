@@ -1,6 +1,6 @@
 {
-  "name": "frontity-hello-world",
-  "repo": "konrad-glowacki/frontity-hello-world",
+  "name": "wpe-frontity-hello-world",
+  "repo": "konrad-glowacki/wpe-frontity-hello-world",
   "environments": [
     {
       "name": "development",
