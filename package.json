@@ -13,8 +13,10 @@
   "scripts": {
     "dev": "frontity dev",
     "build": "frontity build",
-    "wpe-build": "frontity build",
-    "start": "frontity serve"
+    "serve": "frontity serve",
+
+    "start": "frontity serve",
+    "wpe-build": "frontity build"
   },
   "prettier": {},
   "dependencies": {
