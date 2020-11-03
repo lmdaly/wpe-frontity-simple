@@ -8,8 +8,8 @@
       "wp_environment_name": "kongloheaddev",
       "secrets": [
         {
-          "key": "WP_URL",
-          "value": "http://kongloheaddev.wpengine.com"
+          "key": "FRONTITY_SERVE_PORT",
+          "value": "8080"
         }
       ]
     }
